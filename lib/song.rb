@@ -10,6 +10,12 @@ def name
   @name
 end
 
+def artist=(artist)
+  @name = name
+end
 
+def name
+  @name
+end
 
 end
