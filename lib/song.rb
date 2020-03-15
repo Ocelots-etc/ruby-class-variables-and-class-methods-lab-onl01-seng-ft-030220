@@ -8,9 +8,9 @@ def song=(name, artist, genre)
   @genre = genre
 end
 
-def name
-  @name
-end
+# def name
+#   @name
+# end
 
 # def artist=(artist)
 #   @artist = artist
