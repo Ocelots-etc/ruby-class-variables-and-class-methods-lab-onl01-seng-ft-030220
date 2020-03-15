@@ -8,7 +8,7 @@ def initialize(name, artist, genre)
   # @genre = genre
 end
 
-def name
+def name=(name)
 
 end
 
