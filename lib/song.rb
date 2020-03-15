@@ -3,16 +3,16 @@ class Song
 # attr_reader :name, :artist, :genre
 
 def new=(name, artist, genre)
-  @name = ["name"]
-  @artist = ["artist"]
-  @genre = ["genre"]
+  @name = [name]
+  @artist = [artist]
+  @genre = [genre]
 end
 
-def new
-  @name
-  @artist
-  @genre
-end
+# def new
+#   @name
+#   @artist
+#   @genre
+# end
 
 # def artist=(artist)
 #   @artist = artist
