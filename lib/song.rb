@@ -14,8 +14,8 @@ def artist=(artist)
   @artist = artist
 end
 
-def name
-  @name
+def artist
+  @artist
 end
 
 end
