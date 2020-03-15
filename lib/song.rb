@@ -11,7 +11,7 @@ def name
 end
 
 def artist=(artist)
-  @name = name
+  @artist = artist
 end
 
 def name
