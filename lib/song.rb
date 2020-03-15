@@ -8,9 +8,11 @@ def new=(name, artist, genre)
   @genre = genre
 end
 
-# def name
-#   @name
-# end
+def new
+  @name
+  @artist
+  @genre
+end
 
 # def artist=(artist)
 #   @artist = artist
